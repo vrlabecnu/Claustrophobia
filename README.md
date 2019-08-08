@@ -1,2 +1,2 @@
 # Claustrophobia
-For claustrophobia VR project
+Data and scripts for claustrophobia VR project
